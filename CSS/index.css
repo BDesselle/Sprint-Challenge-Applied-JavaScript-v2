@@ -223,6 +223,7 @@ body {
   align-items: none;
   flex-direction: column;
   background-color: #fff;
+  color: #333;
   width: 380px;
   margin-bottom: 16px;
   padding: 24px;
@@ -245,6 +246,7 @@ body {
 }
 .cards-container .card .author .img-container img {
   width: 40px;
+  border-radius: 5px;
 }
 .cards-container .card .author span {
   padding-left: 10px;
